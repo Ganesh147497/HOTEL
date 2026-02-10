@@ -56,7 +56,6 @@ The dataset contains hotel booking records including:
                        Shorter stays
                        Increased cancellations
                        Weekend bookings are more stable than weekday bookings.
-
    4) Business Recommendations
           Strategies to Reduce Cancellations:
                                         Introduce partial or non-refundable deposits for early bookings.
