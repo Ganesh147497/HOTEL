@@ -1,4 +1,4 @@
-Hotel Booking Data Analysis
+#Hotel Booking Data Analysis
 
 This project analyzes a hotel booking dataset to uncover key trends, root causes behind cancellations, and actionable business recommendations.
 The goal is to simulate real-world data analysis performed by a Data Analyst for business decision-making.
