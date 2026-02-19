@@ -1,4 +1,4 @@
-#Hotel Booking Data Analysis
+Hotel Booking Data Analysis
 
 This project analyzes a hotel booking dataset to uncover key trends, root causes behind cancellations, and actionable business recommendations.
 The goal is to simulate real-world data analysis performed by a Data Analyst for business decision-making.
@@ -15,37 +15,38 @@ The dataset contains hotel booking records including:
 
 1)KEY OBSERVATIONS
     A) Meaningful Trends & Patterns:
-        Trend 1: Long Lead-Time Bookings Have Higher Cancellations
-             Bookings made far in advance show a significantly higher cancellation rate, indicating uncertainty in early travel planning.
+        
+Trend 1: Long Lead-Time Bookings Have Higher Cancellations  
+		Bookings made far in advance show a significantly higher cancellation rate, indicating uncertainty in early travel planning.
 
-        Trend 2: City Hotels Face More Cancellations Than Resort Hotels
+Trend 2: City Hotels Face More Cancellations Than Resort Hotels
             City hotels experience more frequent cancellations due to flexible business travel, while resort hotels show more stable vacation-based bookings.
-						
-        Trend 3: High-ADR Bookings Cancel More Often
+Trend 3: High-ADR Bookings Cancel More Often
             Bookings with higher average daily rates tend to cancel more, suggesting price sensitivity and competitive price comparison.
 
-    B) Booking Patterns Across Channels, Room Types & Ratings
-       Booking Channels:
-               Online Travel Agencies (OTAs) generate higher booking volume but also higher cancellation rates.
-                Direct bookings show lower cancellations and higher booking reliability.
-       Room Types:
-             Standard rooms are the most frequently booked and relatively stable.
-             Premium and suite rooms have higher cancellation risk due to higher pricing.
-       Star Ratings / Property Quality (Inferred):
-                     Higher-end properties command higher ADRs and expectations, which can lead to increased cancellations if perceived value is not met.
-	   C) Cancellation Behavior:
-                        Most cancellations occur before the arrival date.
-                        Bookings without deposits are canceled more frequently.
-                        Guests with special requests and repeat guests show much lower cancellation rates.
-	2)	Root Cause Analysis:
-            >  Reasons Behind Cancellation Patterns
-            > Long lead times create planning uncertainty.
-            > Flexible or free cancellation policies.
-            > Price sensitivity and competitive offers.
-            > Business travel plan changes.
-      Property Types:
-                    Resort hotels attract leisure travelers with fixed plans and longer stays.
-                    City hotels depend more on business travelers with flexible schedules
+B) Booking Patterns Across Channels, Room Types & Ratings
+    Booking Channels:
+         Online Travel Agencies (OTAs) generate higher booking volume but also higher cancellation rates.
+         Direct bookings show lower cancellations and higher booking reliability.
+Room Types:
+   Standard rooms are the most frequently booked and relatively stable.
+ Premium and suite rooms have higher cancellation risk due to higher pricing.
+Star Ratings / Property Quality (Inferred):
+Higher-end properties command higher ADRs and expectations, which can lead to increased cancellations if perceived value is not met.
+	 
+C) Cancellation Behavior:
+            Most cancellations occur before the arrival date.
+             Bookings without deposits are canceled more frequently.
+             Guests with special requests and repeat guests show much lower cancellation rates.
+2)	Root Cause Analysis:
+     >  Reasons Behind Cancellation Patterns
+     > Long lead times create planning uncertainty.
+     > Flexible or free cancellation policies.
+     > Price sensitivity and competitive offers.
+     > Business travel plan changes.
+     Property Types:
+             Resort hotels attract leisure travelers with fixed plans and longer stays.
+             City hotels depend more on business travelers with flexible schedules
 	3)Seasonal & Temporal Influences
        Peak seasons show:
                    Higher ADR
@@ -58,10 +59,10 @@ The dataset contains hotel booking records including:
                        Weekend bookings are more stable than weekday bookings.
    4) Business Recommendations
           Strategies to Reduce Cancellations:
-                                        Introduce partial or non-refundable deposits for early bookings.
-                                        Offer discounted non-refundable pricing options.
-                                        Improve pre-arrival communication and reminders.
-                                        Encourage special requests to increase booking commitment.
+                            Introduce partial or non-refundable deposits for early bookings.
+                             Offer discounted non-refundable pricing options.
+                             Improve pre-arrival communication and reminders.
+                              Encourage special requests to increase booking commitment.
           Improving Profitability & Repeat Bookings:
                                                    Promote direct booking benefits (free breakfast, loyalty points).
                                                    Target repeat guests with personalized offers.
